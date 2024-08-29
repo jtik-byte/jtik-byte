@@ -1,6 +1,9 @@
 (1) Default Mode: Apply the default setting
-(2) Custom Mode: Modify the script to your needs 
+
+(2) Custom Mode: Modify the script to your needs
+
 (3) App removal mode: select & remove apps, without
+
 (4) Apply saved custom setting from last time
   
 - Show information about the script
